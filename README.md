@@ -26,7 +26,7 @@ How to run
 
 ### **1. Import Study Specifications**
 
-Import the following specifications for each analysis into the ATLAS environment by copying and pasting json txt provided at the following links:
+Import the following specifications for each analysis into the ATLAS environment by copying and pasting json txt provided at the following links into the Utilities, Import Tab for each analysis:
 
 - Cohort Pathway 1: **[Single Ingredient Antiretrovirals](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/Study%20Specifications/HIV_Pathway_Single_Ingredient.txt)**
 - Cohort Pathway 2: **[Combination Antiretroviral Medications](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/Study%20Specifications/HIV_Pathway_Combo.txt)**
