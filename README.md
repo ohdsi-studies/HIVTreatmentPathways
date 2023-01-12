@@ -23,4 +23,8 @@ How to run
 - ATLAS CohortPathways and Characterization Tools
 
 **2. Import Specifications**
-- 
+- Import the following speficiations for each analysis into the ATLAS environemnt by copying and pasting the provided json txt
+- Cohort Pathways: 
+--Cohort Pathway 1: Single Ingredient Antiretrovirals
+--Cohort Pathway 2: Combination Antiretroviral Medications
+- Characterization:
