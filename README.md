@@ -34,7 +34,7 @@ Import the following specifications for each analysis into the ATLAS environment
 
 **2. Execute Cohort Pathway 1, Cohort Pathway 2, and Characterization on CDM Transformed Database**
 
-**3. Return Results Files**
+**3. Return csv Results Files**
 
 Upload the following results files to the study coordinator 
 - pathways
