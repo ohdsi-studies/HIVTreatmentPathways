@@ -23,7 +23,7 @@ How to run
 - Configured ATLAS Environment
 - ATLAS CohortPathways and Characterization Tools
 
-**1. Import Specifications**
+**1. Import Study Specifications**
 
 Import the following specifications for each analysis into the ATLAS environment by copying and pasting json txt provided at the following links:
 
@@ -35,6 +35,11 @@ Import the following specifications for each analysis into the ATLAS environment
 **2. Execute Cohort Pathway 1, Cohort Pathway 2, and Characterization on CDM Transformed Database**
 
 **3. Return Results Files**
+Upload the following results files to the study coordinator 
+- pathways
+- EventCohortCounts
+- DistinctEventCohorts
+
 
 
 
