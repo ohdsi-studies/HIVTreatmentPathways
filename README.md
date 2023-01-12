@@ -19,7 +19,7 @@ The purpose of  this study is to characterize and evaluate trends in antiretrovi
 How to run
 =============
 **1. Requirements:**
-- A database in Common Data Model version 5 in one of these platforms: SQL Server, Oracle, PostgreSQL, IBM Netezza, Apache Impala, Amazon RedShift, Google BigQuery, or Microsoft APS.
+- A Database in Common Data Model Version 5
 - Configured ATLAS Environment
 - ATLAS CohortPathways and Characterization Tools
 
