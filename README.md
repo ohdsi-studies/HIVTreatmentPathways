@@ -18,6 +18,6 @@ The purpose of  this study is to characterize and evaluate trends in antiretrovi
 
 How to run
 =============
-1. Requirements for executing this package: 
-- **ATLAS Environment**
-* CohortPathways and Characterization
+**1. Requirements for executing this package:**
+- ATLAS Environment
+- CohortPathways and Characterization
