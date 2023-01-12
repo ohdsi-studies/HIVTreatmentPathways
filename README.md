@@ -22,7 +22,7 @@ How to run
 - A Database in Common Data Model Version 5
 - Configured ATLAS Environment
 - ATLAS CohortPathways and Characterization Tools
-- 
+
 
 ### **1. Import Study Specifications**
 
