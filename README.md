@@ -22,6 +22,7 @@ How to run
 - A Database in Common Data Model Version 5
 - Configured ATLAS Environment
 - ATLAS CohortPathways and Characterization Tools
+- 
 
 **1. Import Study Specifications**
 
@@ -32,7 +33,9 @@ Import the following specifications for each analysis into the ATLAS environment
 
 - Characterization: **[Characterization](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/Study%20Specifications/HIV_Characterization.txt)**
 
+
 **2. Execute Cohort Pathway 1, Cohort Pathway 2, and Characterization on CDM Transformed Database**
+
 
 **3. Return csv Results Files**
 
@@ -40,6 +43,13 @@ Upload the following results files to the study coordinator
 - pathways
 - EventCohortCounts
 - DistinctEventCohorts
+- Condition Group Era Any Time Prior
+- Demographics Ethnicity 
+- Demographics Age Group 
+- Demographics Race
+- Demographics Gender
+- Demographics Age 
+- Demographics Index Year
 
 
 
