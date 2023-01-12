@@ -10,7 +10,7 @@ Characterizing Patterns in Antiretroviral Therapy for Individuals with Human Imm
 - Study lead forums tag: **[[redavis]](https://forums.ohdsi.org/u/[redavis])**
 - Study start date: **January 2023**
 - Study end date: **-**
-- Protocol: **[[HIV_TP]](https://github.com/ohdsi-studies/HIVTreatmentPathways/tree/master/documents)**
+- Protocol: **[HIV_TP](https://github.com/ohdsi-studies/HIVTreatmentPathways/tree/master/documents)**
 - Publications: **-**
 - Results explorer: **-**
 
@@ -26,5 +26,5 @@ How to run
 Import the following speficiations for each analysis into the ATLAS environemnt by copying and pasting the provided json txt
 Cohort Pathways: 
 - Cohort Pathway 1: **[[Single Ingredient Antiretrovirals]](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/Study%20Specifications/HIV_Pathway_Single_Ingredient.txt)**
-- Cohort Pathway 2: Combination Antiretroviral Medications
-Characterization:
+- Cohort Pathway 2: **[[Combination Antiretroviral Medications]](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/Study%20Specifications/HIV_Pathway_Combo.txt)**
+Characterization: **[[Characterization]](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/Study%20Specifications/HIV_Characterization.txt)**
