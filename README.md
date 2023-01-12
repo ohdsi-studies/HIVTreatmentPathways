@@ -18,12 +18,12 @@ The purpose of  this study is to characterize and evaluate trends in antiretrovi
 
 How to run
 =============
-**1. Requirements:**
+**Requirements:**
 - A Database in Common Data Model Version 5
 - Configured ATLAS Environment
 - ATLAS CohortPathways and Characterization Tools
 
-**2. Import Specifications**
+**1. Import Specifications**
 
 Import the following specifications for each analysis into the ATLAS environment by copying and pasting json txt provided at the following links:
 
@@ -31,3 +31,10 @@ Import the following specifications for each analysis into the ATLAS environment
 - Cohort Pathway 2: **[Combination Antiretroviral Medications](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/Study%20Specifications/HIV_Pathway_Combo.txt)**
 
 - Characterization: **[Characterization](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/Study%20Specifications/HIV_Characterization.txt)**
+
+**2. Execute Cohort Pathway 1, Cohort Pathway 2, and Characterization on CDM Transformed Database**
+
+**3. Return Results Files**
+
+
+
