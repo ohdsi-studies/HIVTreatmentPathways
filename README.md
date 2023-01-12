@@ -24,7 +24,7 @@ How to run
 - ATLAS CohortPathways and Characterization Tools
 - 
 
-**1. Import Study Specifications**
+# **1. Import Study Specifications**
 
 Import the following specifications for each analysis into the ATLAS environment by copying and pasting json txt provided at the following links:
 
@@ -34,10 +34,10 @@ Import the following specifications for each analysis into the ATLAS environment
 - Characterization: **[Characterization](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/Study%20Specifications/HIV_Characterization.txt)**
 
 
-**2. Execute Cohort Pathway 1, Cohort Pathway 2, and Characterization on CDM Transformed Database**
+# **2. Execute Cohort Pathway 1, Cohort Pathway 2, and Characterization on CDM Transformed Database**
 
 
-**3. Return csv Results Files**
+# **3. Return csv Results Files**
 
 Upload the following results files to the study coordinator 
 - pathways
