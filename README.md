@@ -15,3 +15,9 @@ Characterizing Patterns in Antiretroviral Therapy for Individuals with Human Imm
 - Results explorer: **-**
 
 The purpose of  this study is to characterize and evaluate trends in antiretroviral therapy for individuals who have been diagnosed with Human Immunodeficiency Virus. The analysis package has been developed using the CohortPathways and Characterization tools in ATLAS and will be performed in the ATLAS environment.
+
+How to run
+=============
+1. Requirements for executing this package: 
+- **ATLAS Environment**
+* CohortPathways and Characterization
