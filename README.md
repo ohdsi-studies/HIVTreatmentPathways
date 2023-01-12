@@ -7,7 +7,7 @@ Characterizing Patterns in Antiretroviral Therapy for Individuals with Human Imm
 - Study type: **Clinical Application**
 - Tags: **OHDSI, HIV, Antiretroviral Therapy**
 - Study lead: **Raechel Davis**
-- Study lead forums tag: **[[raecheldavis]](https://forums.ohdsi.org/u/[raecheldavis])**
+- Study lead forums tag: **[[redavis]](https://forums.ohdsi.org/u/[redavis])**
 - Study start date: ** January 2023**
 - Study end date: ****
 - Protocol: **-**
