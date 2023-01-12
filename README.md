@@ -43,7 +43,7 @@ Upload the following results files to the study coordinator
 - pathways
 - EventCohortCounts
 - DistinctEventCohorts
-- All characterization Results
+- All Characterization Results
 
 
 
