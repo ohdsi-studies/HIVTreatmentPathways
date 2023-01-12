@@ -20,4 +20,4 @@ How to run
 =============
 **1. Requirements for executing this package:**
 - ATLAS Environment
-- CohortPathways and Characterization
+- CohortPathways and Characterization Tools
