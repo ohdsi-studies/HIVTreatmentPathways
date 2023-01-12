@@ -43,13 +43,7 @@ Upload the following results files to the study coordinator
 - pathways
 - EventCohortCounts
 - DistinctEventCohorts
-- Condition Group Era Any Time Prior
-- Demographics Ethnicity 
-- Demographics Age Group 
-- Demographics Race
-- Demographics Gender
-- Demographics Age 
-- Demographics Index Year
+- All characterization Results
 
 
 
