@@ -38,12 +38,13 @@ Facilitate the analysis under the Execution tab and click 'Generate'
 
 ### **3. Return csv Results Files**
 
-Upload the following .csv results files to the study coordinator 
+Share the following .csv results files with the study coordinator:
 - pathways
 - EventCohortCounts
 - DistinctEventCohorts
 - All Characterization Results files
-A secure file transfer protocol will be implmented to facilitate the sharing of the results files
+
+A secure file transfer protocol will be implmented to facilitate the sharing of the results files as requested
 
 
 
