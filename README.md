@@ -43,6 +43,7 @@ Upload the following .csv results files to the study coordinator
 - EventCohortCounts
 - DistinctEventCohorts
 - All Characterization Results files
+A secure file transfer protocol will be implmented to facilitate the sharing of the results files
 
 
 
