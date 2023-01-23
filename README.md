@@ -34,15 +34,15 @@ Import the following specifications for each analysis into ATLAS by copying and 
 
 
 ### **2. Execute Cohort Pathway 1, Cohort Pathway 2, and Characterization on CDM Transformed Database**
-Facilitate the analysis under the Execution tab and click Generate
+Facilitate the analysis under the Execution tab and click 'Generate'
 
 ### **3. Return csv Results Files**
 
-Upload the following results files to the study coordinator 
+Upload the following .csv results files to the study coordinator 
 - pathways
 - EventCohortCounts
 - DistinctEventCohorts
-- All Characterization Results
+- All Characterization Results files
 
 
 
