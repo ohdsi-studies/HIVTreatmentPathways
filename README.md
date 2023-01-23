@@ -19,7 +19,7 @@ The purpose of  this study is to characterize and evaluate trends in antiretrovi
 How to run
 =============
 ### **Requirements:**
-- A Database in the Common Data Model (atleast Version 5)
+- A Database in the Common Data Model (>= Version 5)
 - Configured ATLAS Environment with capability to execute CohortPathways and Characterization Tools
 
 
