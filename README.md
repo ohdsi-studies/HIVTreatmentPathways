@@ -28,10 +28,10 @@ How to run
 
 Import the following specifications for each analysis into the ATLAS environment by copying and pasting json txt provided into the Utilities, Import Tab for each analysis:
 
-- Cohort Pathway 1: **[Single Ingredient Antiretrovirals](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/Study%20Specifications/HIV_Pathway_Single_Ingredient.txt)**
-- Cohort Pathway 2: **[Combination Antiretroviral Medications](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/Study%20Specifications/HIV_Pathway_Combo.txt)**
+- Cohort Pathway 1: **[Single Ingredient Antiretrovirals](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/StudySpecifications/HIV_Single_CP.txt)**
+- Cohort Pathway 2: **[Combination Antiretroviral Medications](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/StudySpecifications/HIV_Combo_TP.txt)**
 
-- Characterization: **[Characterization](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/Study%20Specifications/HIV_Characterization.txt)**
+- Characterization: **[Characterization](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/StudySpecifications/HIV_Characterization.txt)**
 
 
 ### **2. Execute Cohort Pathway 1, Cohort Pathway 2, and Characterization on CDM Transformed Database**
