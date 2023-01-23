@@ -20,8 +20,7 @@ How to run
 =============
 ### **Requirements:**
 - A Database in the Common Data Model (atleast Version 5)
-- Configured ATLAS Environment
-- ATLAS CohortPathways and Characterization Tools
+- Configured ATLAS Environment with capability to execute CohortPathways and Characterization Tools
 
 
 ### **1. Import Study Specifications**
