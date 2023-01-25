@@ -10,7 +10,7 @@ Characterizing Patterns in Antiretroviral Therapy for Individuals with Human Imm
 - Study lead forums tag: **[redavis](https://forums.ohdsi.org/u/[redavis])**
 - Study start date: **January 2023**
 - Study end date: **-**
-- Protocol: **[HIV_TP](https://github.com/ohdsi-studies/HIVTreatmentPathways/tree/master/documents)**
+- Protocol: **[HIV_TP](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/documents/HIV_TP_OHDSI_StudyProtocolTemplateV4.docx)**
 - Publications: **-**
 - Results explorer: **-**
 
