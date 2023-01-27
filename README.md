@@ -32,6 +32,7 @@ Import the following specifications for each analysis into ATLAS by copying and 
 
 - Characterization: **[Characterization](https://github.com/ohdsi-studies/HIVTreatmentPathways/blob/master/StudySpecifications/HIV_Characterization.txt)**
 
+note: the minimum cell count default is 1
 
 ### **2. Execute Cohort Pathway 1, Cohort Pathway 2, and Characterization on CDM Transformed Database**
 Facilitate the analysis under the Execution tab and click 'Generate'
