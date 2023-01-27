@@ -45,7 +45,7 @@ Share the following .csv results files with the study coordinator:
 - DistinctEventCohorts
 - All Characterization Results files
 
-A secure file transfer protocol will be implemented to facilitate the sharing of the results files
+A secure file transfer protocol will be implemented to facilitate the sharing of the results files as requested
 
 
 
