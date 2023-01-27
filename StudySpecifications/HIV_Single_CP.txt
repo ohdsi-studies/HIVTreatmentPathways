@@ -10607,7 +10607,7 @@
     }
   ],
   "combinationWindow": 14,
-  "minCellCount": 5,
+  "minCellCount": 1,
   "maxDepth": 5,
   "allowRepeats": false
 }
