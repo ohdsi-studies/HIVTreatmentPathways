@@ -46,7 +46,7 @@ Share the following .csv results files with the study coordinator (Raechel):
 - DistinctEventCohorts
 - All Characterization Results files
 
-A secure file transfer protocol will be implemented to facilitate the sharing of the results files as requested- please reach out to raechel.davis@yale.edu
+A secure file transfer protocol can be implemented to facilitate the sharing of the results files as requested by data partners- please reach out to raechel.davis@yale.edu
 
 
 
