@@ -40,13 +40,13 @@ Facilitate the analysis under the Execution tab and click 'Generate'
 
 ### **3. Return csv Results Files**
 
-Share the following .csv results files with the study coordinator:
+Share the following .csv results files with the study coordinator (Raechel): 
 - pathways
 - EventCohortCounts
 - DistinctEventCohorts
 - All Characterization Results files
 
-A secure file transfer protocol will be implemented to facilitate the sharing of the results files as requested
+A secure file transfer protocol will be implemented to facilitate the sharing of the results files as requested- please reach out to raechel.davis@yale.edu
 
 
 
