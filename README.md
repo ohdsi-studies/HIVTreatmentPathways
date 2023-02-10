@@ -42,9 +42,9 @@ Facilitate the analysis under the Execution tab and click 'Generate'
 
 Instructions for sharing the .csv results files with the study coordinator (Raechel): 
 
-For the Characterization Results: Click "Export All" button and consolidate downloaded csv files into a zip folder (there should be approximately 6 files produced)
+For the Characterization Results: Click "Export All" button and consolidate downloaded csv files into a zip folder (there should be 6 files produced)
 
-For each Cohort Pathway: Export all of the tabular results and consolidate to a zip folder, this involves going to the tabular results and clicking the "export" button for each set of results produced, approximatey 9-10 files should be exported per cohort pathway producing a total of around 20 files that should be returned
+For each Cohort Pathway: Export all of the tabular results and consolidate to a zip folder, this involves going to the tabular results and clicking the "export" button for each set of results produced, approximatey 10 files should be exported per cohort pathway producing a total of around 20 files that should be returned
 
 A secure file transfer protocol will be implemented to facilitate the sharing of the results files as requested by data partners- please reach out to raechel.davis@yale.edu
 
